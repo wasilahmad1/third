@@ -1,0 +1,8 @@
+creating a folder
+then going inside the folder 
+then doing git init
+then creating file 
+then editing the file inthe code editor
+then staging
+then commit
+then push
